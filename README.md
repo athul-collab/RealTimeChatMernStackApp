@@ -31,22 +31,6 @@ backend / .env file:
 
 5. Setup The MongoDB
 
-    a. Open this link - LINK
-    b. After that Sign Up on the website.
-    c. Click on New Project Option
-    d. After Creating Project go to Database Section & Build a database
-    e. Select M0 & Your Region & Create Database
-    f. Setup Username & Password & Create User
-        Note: Do not use ‘@’ symbol in the password
-    g. Now Click on Finish & Close
-    h. Whitelist IP 0.0.0.0 & Click on Add Entry
-    i. Now Click on Connect
-    j. Now Select Compass Option
-    k. And Copy the Connection String
-    l. And Paste It in the backend / .env file and replace the <password> with
-    the password you set previously in 4.F & save changes.
-
-    ● In mongodb uri don’t add ” / ” in the end
 
 6. To Run Backend use npm run server command in Integrated Terminal
      Before Running Frontend or Admin Projects make sure Backend is Running in the background terminal
