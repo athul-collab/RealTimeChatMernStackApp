@@ -10,8 +10,8 @@
 
 4. Follow the prompts in the installer.
 
-    — First Run Backend then Frontend & Admin—
-    
+    — First Run Backend then Frontend & Admin —
+
 ❖ Steps To Setup Backend Of The Project
 
 1. Open Project Folder In VS Code
